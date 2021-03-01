@@ -1,7 +1,8 @@
 # Kevin Crawford
 __________________________________________________________________________________________________
 
-Lithonia, GA 30058 - Crawfordk2.0@gmail.com  
+Lithonia, GA 30058  
+Crawfordk2.0@gmail.com  
 ## Professional Summary
 
 Established Field Service Engineer turned AWS Solutions Architect Associate
@@ -13,7 +14,7 @@ Laser-focused and motivated to learn, grow and excel in cloud engineering and de
 - AWS Solutions Architect Associate
 - AWS Certified Cloud Practitioner
 - Excellent customer support
-- Docker Containerization/EC-CLI
+- Docker Containerization/ECS-CLI
 - Cloud Formation/Terraform knowledge
 - Linux and Windows OS
 - IAAS/PAAS/SAAS knowledge
@@ -65,7 +66,7 @@ Laser-focused and motivated to learn, grow and excel in cloud engineering and de
 ### Education
 
 **Devry University**
-No Degree: Electronics Engineering Technology 
+- No Degree: Electronics Engineering Technology 
 
 **Community College Of The Air Force**
 **Technical Certificate:** Electronics Principles, 2001 
