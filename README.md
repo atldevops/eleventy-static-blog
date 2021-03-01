@@ -23,7 +23,7 @@ Laser-focused and motivated to learn, grow and excel in cloud engineering and de
 ### Work History
 
 **Technical Packaging Specialist**, May 2019 to Jan 2021
-**Sealed Air** – Atlanta, GA
+**Sealed Air**,  Atlanta, GA
 
 - Worked closely with sales teams and independently to service products, provide technical support, and grow and promote solutions with customers.
 - Effectively managed territory of over 1000 customers.
@@ -31,8 +31,8 @@ Laser-focused and motivated to learn, grow and excel in cloud engineering and de
 - Consistently exceeded monthly sales forecast.
 - Established and enhanced relationships with new and existing customers.
 
-**Field Service Engineer** 01/2015 to 01/2019 
-**Automated Packaging Systems** – Atlanta, GA
+**Field Service Engineer**, 01/2015 to 01/2019 
+**Automated Packaging Systems**,  Atlanta, GA
 
 - Perform installation of equipment from the entire product line and provide training relating to machinery, maintenance, software, and operation.
 - Perform repairs and preventive maintenance on equipment and provide r-training on software or machinery.
@@ -40,14 +40,14 @@ Laser-focused and motivated to learn, grow and excel in cloud engineering and de
 - Provide timely reporting to Regional Office, or departments, as directed, detailing all service activities performed, or any other reports or information requested periodically, to maintain clear efficient flow of information from the field.
   
 **Technical Solutions Representative**, 01/2014 to 01/2015 
-**Carestream Dental** – GA
+**Carestream Dental**,  GA
 
 - Technical liaison for doctors, IT staff, technicians, and hygienists in providing guidance on Carestream products through thorough hardware & software troubleshooting and training methods.
 - Resolved system issues by utilizing RDP to access -ray system servers in order to troubleshoot hardware and software issues.
 - Successfully investigated product failures and anticipated customer requests through robust customer service skills that led to a YoY increase in customer retention.
 
 **Field Service Engineer**, 01/2007 to 01/2011 
-**General Electric/Morpho Detection** – Atlanta, GA
+**General Electric/Morpho Detection**,  Atlanta, GA
 
 - Installed, diagnosed, troubleshot and repaired mult-million dollar electro/mechanical equipment, conveyor systems, -ray systems, and computer systems and/or software.
 - Provided excellent technical and customer support for installed explosive detection systems ensuring an uptime rating of over 98%.
