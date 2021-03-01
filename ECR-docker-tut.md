@@ -1,4 +1,4 @@
-How to push a docker image to AWS ECR
+### How to push a docker image to AWS ECR
 This tutorial will outline the steps required to push a docker image to Amazon's Elastic Container Registry from the command line. Once the initial steps are done pushing your images to ECR will be much faster.
 Prerequisites:
 AWS account
