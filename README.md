@@ -2,13 +2,13 @@
 __________________________________________________________________________________________________
 
 Lithonia, GA 30058 - Crawfordk2.0@gmail.com  
-### Professional Summary
+## Professional Summary
 
-Established Field Service Engineer turned AWS Solutions Architect Associate<br>  
-with previous experience in IT support, networking, and Linux.<br>  
+Established Field Service Engineer turned AWS Solutions Architect Associate
+with previous experience in IT support, networking, and Linux. 
 Laser-focused and motivated to learn, grow and excel in cloud engineering and devops.
 
-#### Skills
+### Skills
 
 - AWS Solutions Architect Associate
 - AWS Certified Cloud Practitioner
@@ -20,9 +20,9 @@ Laser-focused and motivated to learn, grow and excel in cloud engineering and de
 - Cloud services
 - Network infrastructure administration
 - Powershell, Bash scripting
-#### Work History
+### Work History
 
-**Technical Packaging Specialist**, May 2019 to Jan 2021 
+**Technical Packaging Specialist**, May 2019 to Jan 2021
 **Sealed Air** – Atlanta, GA
 
 - Worked closely with sales teams and independently to service products, provide technical support, and grow and promote solutions with customers.
@@ -62,7 +62,7 @@ Laser-focused and motivated to learn, grow and excel in cloud engineering and de
 - Planned, organized, and scheduled work assignments, workloads, and maintenance procedures for ground radar activities.
 - Served on maintenance inspection teams organized to evaluate operational standards.
 - Ensured maintenance data collection forms and inspection and maintenance records are accurately completed.
-#### Education
+### Education
 
 **Devry University**
 No Degree: Electronics Engineering Technology 
